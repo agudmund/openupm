@@ -1,0 +1,19 @@
+name: com.darthkindergarten.heart
+displayName: Hearts are Diamonds
+description: 'Find them, collect them, enjoy them.'
+repoUrl: 'https://github.com/agudmund/sample-package-test'
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: Open Source
+topics:
+  - testing
+hunter: agudmund
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1674575936889
